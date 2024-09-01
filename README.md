@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-## 🌙 TMI
+## ✨ TMI
 
 <!--
 <a href="https://ansohxxn.github.io/">
@@ -13,5 +13,5 @@
 
 - 이메일 : <nohsongkyun@gmail.com>
 
-## ✨ Studying ✨
+## ✨ Studying
     
