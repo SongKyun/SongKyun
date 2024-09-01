@@ -1,7 +1,9 @@
 ## Hello there 👋
 
-## ✨ TMI
+## ✨ TMI ✨
 
 - 이메일 : <nohsongkyun@gmail.com>
 
-## ✨ Studying
+## ✨ Now : Studying ✨
+
+## ✨ Tech Stack ✨
