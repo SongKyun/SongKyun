@@ -5,7 +5,7 @@
 - 이메일 : <nohsongkyun@gmail.com>
 
 ## ✨ Studing ✨
-- Gangdong SeSAC Unreal Studying ~~!
+- SeSAC Unreal Education
 - Udemy Work Experience Unity Education
 - Skilltreelab Unreal Education
   
